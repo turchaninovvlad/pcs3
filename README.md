@@ -2,7 +2,8 @@
 главный экран
 ![image](https://github.com/user-attachments/assets/a0cdbd50-4d61-4465-8a6b-c40af3cf4236)
 экран продукта
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/6e836d9d-1d43-4ea1-ab5a-b530bc3b1461)
+
 
 A new Flutter project.
 
