@@ -1,6 +1,7 @@
 # untitled6
 главный экран
-![image](https://github.com/user-attachments/assets/a0cdbd50-4d61-4465-8a6b-c40af3cf4236)
+![image](https://github.com/user-attachments/assets/7aee2c31-69b2-406e-bdd2-bc80dd8faa9e)
+
 экран продукта
 ![image](https://github.com/user-attachments/assets/6e836d9d-1d43-4ea1-ab5a-b530bc3b1461)
 
