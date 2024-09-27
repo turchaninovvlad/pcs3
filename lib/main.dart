@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
 void main() {
-  runApp(ProductA()); // Убрали const
+  runApp(ProductA()); 
 }
 
 class ProductA extends StatelessWidget {
@@ -89,10 +89,10 @@ class _ProductListPageState extends State<ProductListPage> {
             child: Container(
               decoration: BoxDecoration(
                 border: Border.all(
-                  color: Colors.blue, // Цвет обводки
-                  width: 2.0, // Толщина обводки
+                  color: Colors.blue, 
+                  width: 2.0, 
                 ),
-                borderRadius: BorderRadius.circular(8), // Скругление углов
+                borderRadius: BorderRadius.circular(8),
               ),
               child: Column(
                 children: [
